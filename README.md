@@ -6,6 +6,17 @@
 
   <br/>
   <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=handshake&logoColor=white" />
+  <br/><br/>
+
+  <a href="https://github.com/thekehindemola" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=social&logo=github&logoColor=black" height="28"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/thekehindemola" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=0A66C2" height="28"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/real_kenzygram" target="_blank">
+    <img src="https://img.shields.io/badge/-X%20(Twitter)-000000?style=social&logo=x&logoColor=black" height="28"/>
+  </a>
 
 </div>
 
@@ -106,24 +117,6 @@ I'm a passionate **Full-Stack Developer** based in **Nigeria**, with hands-on ex
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=thekehindemola&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</div>
-
----
-
-## Connect With Me
-
-<div align="center">
-
-  <a href="https://github.com/thekehindemola" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/thekehindemola" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/real_kenzygram" target="_blank">
-    <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-
 </div>
 
 ---
