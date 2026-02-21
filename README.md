@@ -1,51 +1,53 @@
 <div align="center">
 
-  <!-- Banner / Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Kehinde%20Ademola&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Nigeria%20🇳🇬&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 </div>
 
 ---
 
-## 👋 Hey there, I'm **Kehinde Ademola**
+## Hey there, I'm **Kehinde Ademola**
 
 > *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-I'm a passionate **Full-Stack Developer** based in **Nigeria 🇳🇬**, with hands-on experience building end-to-end web applications — from designing scalable RESTful APIs to crafting responsive, user-friendly frontends.
+I'm a passionate **Full-Stack Developer** based in **Nigeria**, with hands-on experience building end-to-end web applications — from designing scalable RESTful APIs to crafting responsive, user-friendly frontends.
 
-- 🔭 I build complete web applications from the ground up
-- 🧠 I focus on **clean architecture**, **performance**, and **great UX**
-- 🌍 Open to remote opportunities and exciting collaborations
-- 💬 Ask me about **JavaScript, TypeScript, Python, Node.js, Vue, React**
-- ⚡ Fun fact: I love solving real-world problems with code
+- I build complete web applications from the ground up
+- I focus on **clean architecture**, **performance**, and **great UX**
+- Open to remote opportunities and exciting collaborations
+- Ask me about **JavaScript, TypeScript, Python, Node.js, Vue, React**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-### 💻 Languages
+**Languages**
+
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python" />
 </p>
 
-### 🎨 Frontend
+**Frontend**
+
 <p>
   <img src="https://skillicons.dev/icons?i=vue,react,html,css" />
 </p>
 
-### ⚙️ Backend & Databases
+**Backend & Databases**
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite" />
 </p>
 
-### ☁️ DevOps & Tools
+**DevOps & Tools**
+
 <p>
   <img src="https://skillicons.dev/icons?i=aws,linux,git,postman,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -62,7 +64,7 @@ I'm a passionate **Full-Stack Developer** based in **Nigeria 🇳🇬**, with ha
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=thekehindemola&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" />
@@ -70,7 +72,7 @@ I'm a passionate **Full-Stack Developer** based in **Nigeria 🇳🇬**, with ha
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -91,7 +93,7 @@ I'm a passionate **Full-Stack Developer** based in **Nigeria 🇳🇬**, with ha
 
 ---
 
-## 👀 Profile Views
+## Profile Views
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=thekehindemola&label=Profile+Views&color=0e75b6&style=flat" />
