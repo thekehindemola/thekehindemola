@@ -18,7 +18,7 @@ I am passionate about writing clean, maintainable code and continuously improvin
 
 <div align="left">
 
-I am continuously expanding my knowledge in both frontend and backend development. I focus on improving my understanding of system design, API development, database management, and building scalable applications.
+**I am continuously expanding my knowledge in both frontend and backend development. I focus on improving my understanding of system design, API development, database management, and building scalable applications.
 
 I actively learn new frameworks, tools, and best practices to stay up to date with modern web technologies. I also deepen my knowledge of clean architecture, performance optimization, and secure coding principles.
 
