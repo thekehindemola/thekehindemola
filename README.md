@@ -57,18 +57,11 @@ I believe in continuous learning, hands-on experimentation, and solving real-wor
 
 ## 📊 GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thekehindemola&show_icons=true&theme=radical&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekehindemola&layout=compact&theme=radical" height="165"/>
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekehindemola&layout=compact&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thekehindemola&show_icons=true&theme=radical&count_private=true)
-
-</div>
-
----
-
-<div align="center">
-
-_"Code is like humor. When you have to explain it, it's bad." – Cory House_
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thekehindemola&theme=radical" height="165"/>
+</p>
