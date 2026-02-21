@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Kehinde%20Ademola&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Nigeria%20🇳🇬&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey+there%2C+I'm+Kehinde+Ademola!;Full-Stack+Developer+%7C+Nigeria+🇳🇬;Building+scalable+web+applications.;Clean+code.+Great+UX.+Real+impact." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hey+there%2C+I'm+Kehinde+Ademola!;Full-Stack+Developer+%7C+Nigeria+🇳🇬;Open+to+Mid-Level+Roles+%26+Hackathons;Building+scalable+web+applications.;Clean+code.+Great+UX.+Real+impact." />
 
   <br/>
   <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=for-the-badge&logo=handshake&logoColor=white" />
@@ -30,8 +30,21 @@ I'm a passionate **Full-Stack Developer** based in **Nigeria**, with hands-on ex
 
 - I build complete web applications from the ground up
 - I focus on **clean architecture**, **performance**, and **great UX**
-- Open to remote opportunities and exciting collaborations
+- I love fast-paced problem solving — hackathons are my thing
 - Ask me about **JavaScript, TypeScript, Python, Node.js, Vue, React**
+- Currently deepening my knowledge in **system design & cloud architecture**
+
+---
+
+## What I'm Looking For
+
+| | |
+|---|---|
+| **Open Source** | I enjoy contributing to meaningful projects that solve real problems |
+| **Hackathons** | Fast-paced, creative problem solving — always up for a challenge |
+| **Mid-Level Roles** | Full-Stack opportunities — remote, hybrid, or onsite in Nigeria |
+
+> Feel free to reach out via [LinkedIn](https://linkedin.com/in/thekehindemola) or [X (Twitter)](https://twitter.com/real_kenzygram) — let's build something great together.
 
 ---
 
