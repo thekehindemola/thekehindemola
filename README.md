@@ -31,24 +31,9 @@ I believe in continuous learning, hands-on experimentation, and solving real-wor
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-JavaScript • TypeScript • Python  
-
-### 🎨 Frontend
-Vue.js • React Native • Tailwind CSS  
-
-### ⚙️ Backend
-Node.js • Express.js • Nginx  
-
-### 🗄 Database
-MongoDB • MySQL • SQLite  
-
-### ☁️ DevOps & Cloud
-AWS • Linux  
-
-### 🧰 Tools
-Git • Postman • Framer • Adobe Suite  
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,vue,react,nodejs,express,mongodb,mysql,sqlite,aws,linux,git,postman&perline=7" />
+</p>
 ---
 
 ## 🌐 Connect With Me
