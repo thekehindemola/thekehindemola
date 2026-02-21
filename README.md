@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Kehinde Ademola
 ### Full-Stack Developer | Backend & Frontend Engineer  
-🌍 Nigeria
+📍 Nigeria
 
 </div>
 
