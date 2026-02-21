@@ -38,14 +38,20 @@ I believe in continuous learning, hands-on experimentation, and solving real-wor
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-[GitHub](https://github.com/thekehindemola) • 
-[Twitter/X](https://twitter.com/real_kenzygram) • 
-[LinkedIn](https://linkedin.com/thekehindemola) • 
-[Instagram](https://instagram.com/real_kenzygram)
-
-</div>
+<p align="center">
+  <a href="https://github.com/thekehindemola">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://twitter.com/real_kenzygram">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://linkedin.com/thekehindemola">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://instagram.com/real_kenzygram">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>
 
 ---
 
