@@ -29,7 +29,8 @@ I design scalable APIs, manage databases, and build responsive frontend applicat
 
 ## GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=thekehindemola&show_icons=true&theme=default&cache_seconds=1800" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekehindemola&layout=compact&theme=default&cache_seconds=1800" height="165" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thekehindemola&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thekehindemola&layout=compact)
 
 "Code is like humor. When you have to explain it, it's bad." – Cory House
