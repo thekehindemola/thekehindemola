@@ -20,10 +20,18 @@ I design scalable APIs, manage databases, and build responsive frontend applicat
 
 ## Connect With Me
 
-<a href="https://github.com/thekehindemola"><img src="https://skillicons.dev/icons?i=github" /></a>
-<a href="https://twitter.com/real_kenzygram"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-<a href="https://linkedin.com/thekehindemola"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/real_kenzygram"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://github.com/thekehindemola">
+  <img src="https://cdn.simpleicons.org/github/000000" height="30" />
+</a>
+<a href="https://twitter.com/real_kenzygram">
+  <img src="https://cdn.simpleicons.org/x/000000" height="30" />
+</a>
+<a href="https://linkedin.com/thekehindemola">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30" />
+</a>
+<a href="https://instagram.com/real_kenzygram">
+  <img src="https://cdn.simpleicons.org/instagram/E4405F" height="30" />
+</a>
 
 ---
 
