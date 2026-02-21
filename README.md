@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Kehinde Ademola
 
-### A passionate developer from [Your Location]
+### A passionate developer from Nigeria
 
 </div>
 
